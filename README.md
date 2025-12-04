@@ -78,14 +78,14 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/052d1e0fe07.png.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/ArtemZasukhin/ArtemZasukhin/blob/main/052d1e0fe07.png)
-[<img src="/06813518471%20(2).png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://github.com/ArtemZasukhin/ArtemZasukhin/blob/main/06813518471%20(2).png)
+[<img src="/052d1e0fe07.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/ArtemZasukhin/ArtemZasukhin/blob/main/052d1e0fe07.png)
+[<img src="/06813518471%20(2).png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/ArtemZasukhin/ArtemZasukhin/blob/main/06813518471%20(2).png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/evdokimovmax)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:artem.zasukkhin@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ArtemZasukhin)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
